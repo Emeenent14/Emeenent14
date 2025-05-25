@@ -28,9 +28,6 @@
   </tr>
 </table>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emeenent14&layout=compact&theme=radical)
-
 ### 🛠️ Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
