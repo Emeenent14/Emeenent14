@@ -1,14 +1,12 @@
- ## Hi there i'm Emeenent 👋
+ ## Hi there i'm Chukwuemeka (aka.Emeenent)👋
 
 - 🔭 I’m currently working on something big
 - 🌱 I’m currently learning AI and embedded systems
 - 👯 I’m looking to collaborate on cool projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React, Python, or anything techy
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i code for fun, im crazy about anime
--->
+- ⚡ Fun fact: i code for fun, im crazy about anime.
 
 ### 📊 GitHub Stats:
 
