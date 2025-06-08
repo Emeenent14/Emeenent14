@@ -1,7 +1,7 @@
  ## Hi there i'm Chukwuemeka (aka.Emeenent)👋
 
 - 🔭 I’m currently working on something big
-- 🌱 I’m currently learning AI and embedded systems
+- 🌱 AI and embedded systems Enthusiast 
 - 👯 I’m looking to collaborate on cool projects
 - 💬 Ask me about React, Python, or anything techy
 - 📫 How to reach me: ...
