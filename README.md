@@ -1,13 +1,4 @@
-## 👋 Hi there, I'm Chukwuemeka (aka **Emeenent**)
-
-- 🔭 Currently diving deeper into **Machine Learning**
-- 🌱 Enthusiastic about **AI** and building intelligent systems
-- 👯 Open to collaborate on **cool projects**
-- 💬 Ask me about **React**, **Python**, or anything techy
-- 📫 Reach me on [WhatsApp](https://wa.me/2347069273822?text=Hey%20Emeenent!%20Let%27s%20collab)
-- ⚡ Fun fact: *I dream in JavaScript and have React for breakfast.*
-
-
+## 👋 Hi there, Looks like you found my space
 
 ### 🛠️ Languages and Tools:
 
