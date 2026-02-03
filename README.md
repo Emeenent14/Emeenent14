@@ -1,4 +1,4 @@
-## 👋 Hi there, Looks like you found my space
+## 👋 Hi there, welcome to my little space
 
 ### 🛠️ Languages and Tools:
 
