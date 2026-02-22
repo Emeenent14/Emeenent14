@@ -1,7 +1,3 @@
-## 👋 Hi there, welcome to my little space
-
-### 🛠️ Languages and Tools:
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
